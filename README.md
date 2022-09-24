@@ -15,4 +15,5 @@
 7.You can now customize this new non-steam game entry and rename it to the name of the game you've installed, apply custom artwork for it from https://steamgriddb.com, and so on.
 
 8.Repeat steps 5-9 for all Ubisoft Connect games you want to add to Steam.
-9.124124Note, it's probably a good idea to remove the symlink before removing a Ubisoft game that you want to delete from Steam, then uninstall the game from within Connect.
+
+Note: it's probably a good idea to remove the symlink before removing a Ubisoft game that you want to delete from Steam, then uninstall the game from within Connect.
