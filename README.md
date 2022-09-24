@@ -12,7 +12,7 @@
 
 6.Add STEAM_COMPAT_DATA_PATH="/home/deck/.local/share/Steam/steamapps/compatdata/3306400784" %command% uplay://launch/273/0 to your launch options, where [prefix] is the directory number from step 5 and XXX is the game's id from https://github.com/Haoose/UPLAY_GAME_ID.
 
-7.You can now customize this new non-steam game entry and rename it to the name of the game you've installed, apply custom artwork for it from steamgriddb.com, and so on.
+7.You can now customize this new non-steam game entry and rename it to the name of the game you've installed, apply custom artwork for it from https://steamgriddb.com, and so on.
 
 8.Repeat steps 5-9 for all Ubisoft Connect games you want to add to Steam.
 9.124124Note, it's probably a good idea to remove the symlink before removing a Ubisoft game that you want to delete from Steam, then uninstall the game from within Connect.
