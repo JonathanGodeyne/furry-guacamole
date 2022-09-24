@@ -10,7 +10,7 @@
 
 5.Add another non-Steam game, pointed to /home/deck/.steam/steam/steamapps/compatdata/pfx/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UbisoftConnect.exe
 
-6.Add STEAM_COMPAT_DATA_PATH="/home/deck/.local/share/Steam/steamapps/compatdata/3306400784" %command% uplay://launch/XXX/0 to your launch options, where [prefix] is the directory number from step 5 and XXX is the game's id from https://github.com/Haoose/UPLAY_GAME_ID.
+6.Add STEAM_COMPAT_DATA_PATH="/home/deck/.local/share/Steam/steamapps/compatdata/3306400784" %command% uplay://launch/273/0 to your launch options, where [prefix] is the directory number from step 5 and XXX is the game's id from https://github.com/Haoose/UPLAY_GAME_ID.
 
 7.You can now customize this new non-steam game entry and rename it to the name of the game you've installed, apply custom artwork for it from steamgriddb.com, and so on.
 
