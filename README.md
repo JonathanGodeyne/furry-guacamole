@@ -8,7 +8,7 @@
 
 4.Download/Install your game in Ubisoft Connect, and then exit it.
 
-5.Add another non-Steam game, pointed to the same UbisoftConnect.exe in the same directory as above.
+5.Add another non-Steam game, pointed to /home/deck/.steam/steam/steamapps/compatdata//pfx/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UbisoftConnect.exe
 
 6.Add STEAM_COMPAT_DATA_PATH="/home/deck/.local/share/Steam/steamapps/compatdata/[prefix]" %command% uplay://launch/XXX/0 to your launch options, where [prefix] is the directory number from step 5 and XXX is the game's id from https://github.com/Haoose/UPLAY_GAME_ID.
 
